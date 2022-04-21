@@ -1,0 +1,23 @@
+{
+  "name": "readmegenplease",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phacharapol18/ReadMeGenPlease.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phacharapol18/ReadMeGenPlease/issues"
+  },
+  "homepage": "https://github.com/Phacharapol18/ReadMeGenPlease#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
