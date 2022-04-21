@@ -36,7 +36,7 @@
 ## Test
 ![screenShot](imagesandvideo/screen.png)
 <video  width="445" height="300" controls
- src="imagesandvideo/Demo-readme.mp4" type="video/mp4">
+ src="imagesandvideo/demo-readme.mp4" type="video/mp4">
 </video>
 
 <a name="question"></a>
