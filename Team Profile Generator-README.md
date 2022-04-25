@@ -1,5 +1,7 @@
-# ReadMe-Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-     This app will allow user to generate quality
+# Team Profile Generator 
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+    User will be able to generate their team for easier contact
 - [mit](https://choosealicense.com/licenses/mit/)
 ## Table Contents
 - [Installation](#installation)
@@ -9,10 +11,10 @@
 - [Question](#question)
 <a name="installation"></a>
 ## Installation
-    
+    Clone this repositories
 <a name="usage"></a>
 ## Usage
-    
+    JavaScritpy
    
 
 <a name="contributing"></a>
@@ -20,7 +22,7 @@
     
 <a name="test"></a>
 ## Test
-comming soon
+
 <a name="question"></a>
 ## Question
 - [phacharapol18](https://github.com/phacharapol18)
